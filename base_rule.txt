@@ -1,0 +1,7 @@
+base£º
+F
+rule£º
+FF F-[[f]+f]+F[+Ff]-f
+f F[F-F]F[+F]F
+f FF-F+F-F-FF
+
